@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-lucide/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-lucide/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-lucide.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-lucide)
 
-A package to easily make use of [Lucide](https://lucide.dev/) in your Laravel Blade views.
+A package to easily make use of [Lucide](https://lucide.dev/) with Laravel Blade Icons.
 
 ## Installation
 
